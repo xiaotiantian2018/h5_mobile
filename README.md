@@ -46,3 +46,4 @@
 ### 预览截图
 
 ![截图](https://github.com/FredaFei/React_MS_H5/blob/master/preview.gif)
+(https://github.com/FredaFei/React_MS_H5/blob/master/preview_index.jpg)
